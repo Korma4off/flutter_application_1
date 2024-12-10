@@ -28,8 +28,6 @@ class MyApp extends StatelessWidget {
       ),
     );
   }
-
-
 }
 
 /// Dock of the reorderable [items].
